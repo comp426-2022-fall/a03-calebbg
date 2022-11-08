@@ -13,6 +13,7 @@
   "bin": {
     "roll-dice": "./bin/cli.js"
   },
+  "type": "module",
   "author": "Bryan Caleb Gill",
   "license": "GPL-3.0-or-later",
   "bugs": {
