@@ -1,0 +1,25 @@
+{
+  "name": "node-dice",
+  "version": "1.0.0",
+  "description": "a03 package",
+  "main": "./lib/roll.js",
+  "scripts": {
+    "test": "node ./lib/roll.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2022-fall/a03-calebbg.git"
+  },
+  "bin": {
+    "roll-dice": "./bin/cli.js"
+  },
+  "author": "Bryan Caleb Gill",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2022-fall/a03-calebbg/issues"
+  },
+  "homepage": "https://github.com/comp426-2022-fall/a03-calebbg#readme",
+  "dependencies": {
+    "minimist": "^1.2.7"
+  }
+}
