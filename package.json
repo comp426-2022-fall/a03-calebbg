@@ -4,7 +4,7 @@
   "description": "a03 package",
   "main": "./lib/roll.js",
   "scripts": {
-    "test": "node ./lib/roll.js"
+    "test": "node ./bin/cli.js"
   },
   "repository": {
     "type": "git",
