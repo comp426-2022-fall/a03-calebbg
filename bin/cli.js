@@ -23,5 +23,3 @@ if (args.rolls) {
 let output = roll(num_sides, num_dice, num_rolls);
 
 console.log(JSON.stringify(output));
-
-// console.log(num_sides, num_dice, num_rolls);
