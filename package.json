@@ -1,7 +1,7 @@
 {
   "name": "node-dice",
   "version": "1.0.0",
-  "description": "a03 package",
+  "description": "a03 package ",
   "main": "./lib/roll.js",
   "scripts": {
     "test": "node ./bin/cli.js"
